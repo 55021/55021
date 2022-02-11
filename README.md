@@ -2,11 +2,10 @@
 
 <img align="right" src="https://i.pinimg.com/originals/1a/b9/8b/1ab98b9837e0fd0dd9d905028cfdc221.gif" width="300px">
 <h4>Desenvolvedora de software front-end.</h4>
-<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=55021&theme=midnight-purple&show_icons=true)](https://github.com/55021/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=55021&theme=midnight-purple&title_color=fe5d9f&show_icons=true)](https://github.com/55021/github-readme-stats)
 
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=55021&theme=midnight-purple&show_icons=true)
+![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=55021&theme=midnight-purple&title_color=fe5d9f&icon_color=ffafcc&show_icons=true)
 <br>
 <br>
 <p align="center"><i>The patterns of our lives reveal us. Our habits measure us. Our battles with our habits speak of dreams yet to become real.</i></p>
